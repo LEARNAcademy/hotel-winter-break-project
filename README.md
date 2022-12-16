@@ -7,8 +7,8 @@ The goal of this project is to give you something to work on over the break and 
 ### GitHub Classroom Process
 
 - Accept the assignments from GitHub Classroom
-    - [LightBulb Challenge](https://classroom.github.com/a/DlPDdDQ5)
-    - [Week-3 Assessment](https://classroom.github.com/a/PkF9ycNP)
+    - [LightBulb Challenge](https://classroom.github.com/a/k8AsqhFv)
+    - [Week-3 Assessment](https://classroom.github.com/a/B0gsE7R1)
 - Clone the repository to your local environment
 - 'cd' into the repository
 - Create a new branch for the user story you are working on (ex. setup-off-on)
