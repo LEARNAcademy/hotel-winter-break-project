@@ -132,5 +132,5 @@ Prepare a three-minute show and tell for the cohort. Pick three of the following
 - Talk about refactoring you did. Show your commits. Why were these changes important? What problem(s) were you trying you solve? 
 
 
-- Talk about the pseudo coding process.: What was your approach to psuedo coding and planning for this project? What would you change or keep the same for future projects? 
+- Talk about the pseudo coding process. What was your approach to psuedo coding and planning for this project? What would you change or keep the same for future projects? 
 
