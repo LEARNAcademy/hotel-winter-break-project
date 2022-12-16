@@ -65,11 +65,12 @@ Once you are complete with each story of coding you will:
 1. Push your code up to your repository
 2. Create a Pull Request for the branch that is complete
 3. Post a link of this Pull Request in the slack 2022h Channel
-4. Tag classmates or instructors to review your code 
-5. Once your code has been reviewed and accepted 
-6. Merge your PR and delete the old branch from GitHub
-7. Checkout the next branch on your local repository (hint: always checkout new branches from main after pulling main)
-8. Keep coding!
+4. Tag classmates to review your code. 
+5. If after 24 hrs your PR has not been approved, tag instructors with your PR url.
+6. Once your code has been reviewed and accepted 
+7. Merge your PR and delete the old branch from GitHub
+8. Checkout the next branch on your local repository (hint: always checkout new branches from main after pulling main)
+9. Keep coding!
 
 Be mindful to promptly pushing your code for assignments because **your peers will need time to read your code and provide feedback in a timely manner**
 
